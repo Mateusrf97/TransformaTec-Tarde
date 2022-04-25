@@ -1,0 +1,36 @@
+*{
+    margin: 2px;
+    padding: 2px;
+    
+}
+
+body { background-color: #0b2c2c;
+    display: inline-block;
+    color: white;
+ 
+  }
+  
+  
+  div.disci{
+      display: flex;
+      flex-direction: column;
+    ;
+      
+  }
+
+  ul{list-style: none;
+   }
+  
+  
+  
+  label.geral
+  {
+      color: 00FFFF;
+      font-size: 20px;
+      
+  }
+  
+  h1, h3{
+    padding-bottom: 10px;
+      color: 00FFFF;
+  }
